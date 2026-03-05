@@ -1,6 +1,6 @@
 # Tritonet Web Embed
 
-Use Tritonet Brainwave on any website.
+Use Tritonet Web on any website.
 
 ## What this repo contains
 
@@ -12,7 +12,7 @@ Use Tritonet Brainwave on any website.
 ```html
 <iframe
   src="./dist/Tritonet_Web.html"
-  title="Tritonet Brainwave"
+  title="Tritonet Web"
   width="1100"
   height="734"
   style="border:0; max-width:100%;"
