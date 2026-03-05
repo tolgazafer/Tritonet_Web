@@ -2,6 +2,10 @@
 
 Use Tritonet Web on any website.
 
+## Live Demo
+
+- https://tolgazafer.github.io/Tritonet_Web/
+
 ## What this repo contains
 
 - `dist/Tritonet_Web.html` — self-contained Tritonet app
